@@ -50,20 +50,20 @@ const lampadaQuebrada = true
 
 const TrocarLampada = () => {
 
-		ir até o armário das lâmpadas
-		abrir o armário
-		pegar lâmpada
-		fechar armário
-		ir até o armário da escada
-		abrir armário
-		pegar escada
-		fechar armário
-		ir até a lâmpada
-		colocar a escada em baixo do lugar da lâmpada
-		subir na escada
-		desrosquear a lâmpada até ela sair
-		colocar a lâmpada no buraco
-		rosquear a lâmpada até fixar
+	ir até o armário das lâmpadas
+	abrir o armário
+	pegar lâmpada
+	fechar armário
+	ir até o armário da escada
+	abrir armário
+	pegar escada
+	fechar armário
+	ir até a lâmpada
+	colocar a escada em baixo do lugar da lâmpada
+	subir na escada
+	desrosquear a lâmpada até ela sair
+	colocar a lâmpada no buraco
+	rosquear a lâmpada até fixar
 
 }
 
